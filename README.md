@@ -3,3 +3,9 @@
  
  ## Resources
  https://undraw.co/illustrations
+
+## NPM 
+- https://www.npmjs.com/package/react-parallax-tilt
+- https://www.npmjs.com/package/react-tsparticles (
+   https://particles.js.org/samples/#polygonMask
+)
